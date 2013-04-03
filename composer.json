@@ -1,0 +1,14 @@
+{
+    "autoload":
+    {
+        "psr-0":
+        {
+            "CBerube": [ "src" ]
+        }
+    },
+    "require": {
+        "phpunit/phpunit-mock-objects": "1.2.x-dev",
+        "phpunit/phpunit": "3.7.x-dev",
+        "phpunit/php-code-coverage": "1.2.x-dev"
+    }
+}
